@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "31f70768-d2d7-a774-9fb7-c790c0a9a209",
+  "instructors": {
+    "content": [
+      "ce82bd29-1539-a3f5-3036-1c2574f1e3dc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fb02fac7-7b18-c884-aa98-512b7e97dc86",
+    "website": "9-75j-psychology-of-gender-spring-2003"
+  },
+  "course_title": "Psychology of Gender",
+  "course_description": "We will examine current research and theory regarding the validity and utility of commonly accepted gender differences in many realms. Topics include: gender differences in cognitive abilities; the social construction of gender; developmental, family, educational and medical influences; and political and economic forces.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.75J",
+  "course_image_thumbnail": {
+    "content": "fe38a5ae-b488-2f2e-ed64-0f83cc58ff48",
+    "website": "9-75j-psychology-of-gender-spring-2003"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "1b39b7e0-107b-416e-ab6e-8d4f37c3b103",
+  "site_short_id": "9.75j-spring-2003",
+  "title": "Course Metadata"
+}
